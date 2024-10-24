@@ -6,7 +6,7 @@
 
 ---
 
-### **kwargs:
+### My stack:
 Python, Django, Flask, FastAPI, PostgreSQL, SQLAlchemy, REST API, Arch Linux, ...
 
 ### Some of my projects:
