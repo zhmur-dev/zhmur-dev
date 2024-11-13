@@ -10,6 +10,7 @@
 Python, Django, Flask, FastAPI, PostgreSQL, SQLAlchemy, REST API, Arch Linux, ...
 
 ### Some of my projects:
+* <a href="https://github.com/zhmur-dev/VKBakersShop">VKBakersShop</a>. A sample VK bot functioning as a shop window for local bakery.
 * <a href="https://github.com/zhmur-dev/SpeechTherapyBots">SpeechTherapyBots</a>. Heavily customizable Telegram + VK bots interconnected via universal Django backend.
 * <a href="https://github.com/zhmur-dev/NiftyURL">NiftyURL</a>. A simple and elegant Flask app that generates short URLs.
 * <a href="https://github.com/zhmur-dev/RESTviewer">RESTviewer</a>. Pure RESTful API backend for a review publishing service developed with DRF.
