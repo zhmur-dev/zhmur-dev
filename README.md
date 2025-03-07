@@ -18,8 +18,9 @@
 
 ### <p align="center">`MY SAMPLE PROJECTS`</p>
 #### Bots & related
-* <a href="https://github.com/zhmur-dev/SpeechTherapyBots">SpeechTherapyBots</a>. Heavily customizable Telegram + VK bots interconnected via universal Django backend.
+* <a href="https://github.com/zhmur-dev/TranscriptionBotPython">TranscriptionBotPython</a>. A simple audio/video transcription Telegram bot using Deepgram as AI assistant.
 * <a href="https://github.com/zhmur-dev/VKBakersShop">VKBakersShop</a>. A sample VK bot functioning as a shop window for local bakery.
+* <a href="https://github.com/zhmur-dev/SpeechTherapyBots">SpeechTherapyBots</a>. Heavily customizable Telegram + VK bots interconnected via universal Django backend.
 #### Fullstack apps
 * <a href="https://github.com/zhmur-dev/NiftyURL">NiftyURL</a>. A simple and elegant Flask app that generates short URLs.
 #### Pure REST API
