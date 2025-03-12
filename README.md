@@ -35,5 +35,6 @@ Have a nice day!<br></br>
 
 ---
 <p align="center">
-<a href="https://github.com/zhmur-dev/zhmur-dev/blob/main/%D0%A1ertificate_ENG_%D0%96%D0%BC%D1%83%D1%80%D0%BA%D0%BE%D0%B2_2024-5483-001.pdf">Certificate (ENG)</a> | <a href="https://github.com/zhmur-dev/zhmur-dev/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%96%D0%BC%D1%83%D1%80%D0%BA%D0%BE%D0%B2_2024-5483-001.pdf">Диплом (RU)</a>
+<a href="https://github.com/zhmur-dev/zhmur-dev/blob/main/%D0%A1ertificate_ENG_%D0%96%D0%BC%D1%83%D1%80%D0%BA%D0%BE%D0%B2_2024-5483-001.pdf">Certificate (ENG)</a> | <a href="https://github.com/zhmur-dev/zhmur-dev/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%96%D0%BC%D1%83%D1%80%D0%BA%D0%BE%D0%B2_2024-5483-001.pdf">Диплом (RU)</a><br></br>
+<a href="https://github.com/zhmur-dev/zhmur-dev/blob/main/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.pdf">Letter of gratitude from Yandex / Благодарственное письмо от Яндекс</a>
 </p>
